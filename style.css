@@ -1,0 +1,65 @@
+body{
+	background-color:black;
+	margin: auto;
+}
+
+.photo{
+	background: white;
+}
+
+.container{
+	
+	padding-top: 60px;
+	width: 600px;
+	margin: auto;
+}
+.container h2{
+	padding: 10px;
+    display: inherit;
+	margin: 0;
+}
+.container img{
+	
+	width: 100%;
+
+}
+.fa-heart{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+.fa-comment{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+.fa-paper-plane{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+.fa-bookmark{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+    padding-left: 400px;
+}
+.fa-ellipsis-vertical{
+    font-size: 30px;
+    display: flex;
+}
+#puntos{
+    display: flex;
+    padding-left: 400px;
+    padding-top: 9px;
+}
+h2{
+    font-size: 16px;
+}
+.fa-html5{
+    font-size: 27px;
+
+}
+#hijo{
+   display: flex;
+}
